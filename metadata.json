@@ -1,0 +1,6 @@
+{
+  "name": "MashalCore - Property Owner Listing",
+  "description": "Mobile-first, minimalist property submission and owner verification form for MashalCore Islamabad (Bani Gala & Bhara Kahu).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
